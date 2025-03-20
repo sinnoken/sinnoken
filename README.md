@@ -4,7 +4,7 @@
 - 👀 I’m interested in exploring cutting-edge technologies, open-source projects, and innovative software solutions.
 - 🌱 I’m currently learning advanced machine learning techniques and diving deep into cloud computing.
 - 💞️ I’m looking to collaborate on exciting open-source projects that make a difference in the tech community.
-- 📫 How to reach me: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sinnoken) or drop me an email at sinnoken[at]live.com.
+- 📫 How to reach me: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/XXXXXXXXX) or drop me an email at XXXXXXXXX[at]live.com.
 
 ## About Me
 
